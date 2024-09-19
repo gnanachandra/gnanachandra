@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gnanachandra2003@gmail.com**
 
-- 📄 Know about my experiences [https://storage.googleapis.com/gnanachandra-personal/Gnana_chandra_Vutukuri_Resume.pdf](Resume)
+- 📄 Know about my experiences [Resume](https://storage.googleapis.com/gnanachandra-personal/Gnana_chandra_Vutukuri_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
